@@ -1,3 +1,3 @@
-# paunin/kops
+# noose/kops
 
-Simple  docker image with kubectl, kops, awscli, helm, eksctl
+Simple docker image with kubectl, kops, awscli, helm, eksctl

@@ -1,7 +1,7 @@
 name: "Github Action for Helm/awscli/eksctl/kubectl"
 description: "Github Action for Helm/awscli/eksctl/kubectl"
 branding:
-  icon: 'anchor'  
+  icon: 'anchor'
   color: 'blue'
 inputs:
   command:
