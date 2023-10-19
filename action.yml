@@ -1,5 +1,5 @@
-name: "Github Action for Helm/awscli/eksctl/kubectl"
-description: "Github Action for Helm/awscli/eksctl/kubectl"
+name: "kubectl-aws-helm"
+description: "Github action with kubectl and helm for AWS EKS"
 branding:
   icon: 'anchor'
   color: 'blue'
