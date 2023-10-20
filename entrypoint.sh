@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 set -ex
 
-response=$(sh -c "$*")
+response=$(bash -c "$*")
 
 echo "::set-output name=response::$response"
