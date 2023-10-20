@@ -12,6 +12,6 @@ outputs:
     description: "Output returned by your Helm or kubectl command"
 runs:
   using: "docker"
-  image: Dockerfile #"docker://ghcr.io/noose/kops:v1.0.1"
+  image: "docker://ghcr.io/noose/kops:v1.0.2"
   args:
     - ${{ inputs.command }}
