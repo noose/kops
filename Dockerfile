@@ -1,4 +1,5 @@
 FROM debian
+LABEL org.opencontainers.image.source=https://github.com/noose/kops
 
 # install glibc compatibility for alpine
 RUN apt update \
